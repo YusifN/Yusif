@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+                      
+<button type="button" onclick="alert('The average temperature in tropical rainforests ranges from 70 to 85°F (21 to 30°C). The environment is pretty wet in tropical rainforests, maintaining a high humidity of 77% to 88% year-round.')">Rainforest climate</button>
+ 
+
+                            
+                            
+
+<button type="button" onclick="alert('Huge amount of animals live in the rainforest. Some of those animals are: sloths, tapirs, jaguars, tigers, howler monkeys, spider monkeys and orangutans')">Rain forest animals</button>                                                                                                                                        
+
+
+
+
+
+<button type="button" onclick="alert('Oak trees, moss, grass, flowers and even more!')">Rain forest plants</button>
+
+<button type="button" onclick="alert('Rainforests cover more than 6% of the earth land cover! ')">Fun fact about Rainforests</button>
+
+ 
+
+
+ 
+         <h1> Rainforests Infomation </h1>
+    <p>   Below me is actual map of where major rainforests are located</p>
+<img src=" https://www.ducksters.com/science/ecosystems/world_map_rainforest.jpg ">
+       
+
+
+<p>Below me is a food web</p>javascript:void(0);
+
+
+<img src=" https://media.cheggcdn.com/media/909/9096cfad-4e98-4904-a7a4-0a9a0a895196/phpI2WXsI">
+
+
+ <h1> Human impact on this Wonderful Biome</h1>
+ 
+ 
+<p> We humans, have come a long way from what we first had. Today we have lots of things. Currencies, advanced stuff, building, etc. But Currency. Its might be the end of the rain forests. Some logging companies sell wood for money. Or even cut whole forests for money!  </p>
+ 
+ <p> Here is what we have heard from other sources: "If you've ever wondered how many trees are cut down every year, the shockingly short answer is that 15 billion trees are lost annually to deforestation." YUP! You hear it right! So every 10 year there will be more than 150B tree's cut down! That makes us lose lots of trees..</p>
+ 
+ <p> Even thought thats not good we got to understand that some people depend on wood. However that would not mean we have to cut every tree in the world! We could add laws to not let mass cutting. </p>
+ 
+ 
+<h1>  What if all the Rainforests Disappeared? </h1> 
+
+<p> Here's something a source tells us: 
+"As well as the vivid beauty that comes with great diversity in plants and animals, rainforests also play a practical role in keeping our planet healthy. By absorbing carbon dioxide and releasing the oxygen that we depend on for our survival. The absorption of this CO2 also helps to stabilize the Earth's climate." </p>
+
+<p> Not only we need the rainforest for oxygen but for the animals, wood, recources it has, the big role it plays for rain fall and more!
+So, if we remove all of the rainforests in the world it could harm us very badly or just change our way of life! 
+We would have less, cures, oxygen, wood, rain, animals, ores. This would also mean we would have to pay more for everyday objects and construction objects. 
+This would lead to more poor people, less money and food, huge inflimation in money and even more bad results. </p>
+ 
+ 
+ <h1>  Climate and Location. </h1>
+ 
+ <p> So first of all we have to learn what hemisphere it is, contries that have it, climate at different times of the year. </p>
+ 
+ 
+ 
+ <p> A wide variety of ecosystems and terrains, including lush rainforests, flowing freshwater rivers, islands, mountains, lakes, and deserts make the Western Hemisphere, so rainforests are in the Hemisphere. That would explain why most of them are so hot and humid </p>
+
+
+
+ <p> Tropical rainforests are found in Central and South America, western and central Africa, western India, Southeast Asia, the island of New Guinea, and Australia. So, if you want to find or see a Tropical rainforest i'd recommend going to one of those </p>
+ 
+ <p> Tropical rainforests are humid and warm the whole year! Temperatures don't even change much if its night or day. The average temperature in tropical rainforests go from 70 to 85°F (21 to 30°C). The environment is pretty wet in tropical rainforests. Giving us the clue it  maintains a high humidity of 77% to 88% year-round. </p>
+ 
+ 
+
+
+<h1> What if an a organism goes extinct in the rainforest? </h1>
+
+<p>To find this out, first we would have to find out what the rainforest food chain looks like. I mean of course its going to be a simplefied version since we dont want to get people confused <p>
+
+<img src="https://0901.static.prezi.com/preview/v2/2fp26hzkdpxgqefq6k6czgpywt6jc3sachvcdoaizecfr3dnitcq_3_0.png">
+
+ <p> Above me is a random food web. </p> 
+
+
+   
+
+<p> So lets say, the "Mayan Sea Catfish" goes extinct. That would have a decrease of population for the "Caimans". The decrease of population for the "Caimans" would come due to starvation. This also also means, one of its preys "Baird's Tapir" species would have a decrease in population as well. Why? Well since its predators other prey is extinct, "Baird's Tapir" will be the main food, meaning more of "Baird's Tapir" will be killed so the "Caimans" can maintain balance. Since there would be decrease in "Baird's Tapir" population the "Mango tree's" population would rise since one of its consumers aka ("Baird's Tapir") goes down in population </p>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+
+
+<script> 
+
+</script>
